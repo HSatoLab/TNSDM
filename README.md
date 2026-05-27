@@ -8,7 +8,7 @@
 
   1. Download [PlatEMO](https://github.com/BIMK/PlatEMO/releases).
 
-  2. Copy the PPSDMIA directory into "Algorithms/Multi-objective optimization".
+  2. Copy the TNSDM directory into "Algorithms/Multi-objective optimization".
 
   3. Run TNSDM in the same manner as other algorithms in PlatEMO.
 
